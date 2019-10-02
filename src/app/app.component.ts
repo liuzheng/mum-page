@@ -36,6 +36,10 @@ export class AppComponent {
       image: 'assets/imgs/youzhen.jpg',
       url: 'http://www.psbc.com/',
       name: '邮政银行'
+    }, {
+      image: 'assets/imgs/jd.png',
+      url: 'https://www.jd.com/',
+      name: '京东'
     }];
   }
 
